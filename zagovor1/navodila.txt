@@ -1,1 +1,1 @@
-Dopolnite nalogo iz vaje 5 tako, da dodate gumb na pin PB3. Tudi ta gumb naj proûi prekinitev. Obstojeci gumb povecuje ötevilo, dodani pa naj v PSPju odöteva ötevilo pritiskov
+Dopolnite nalogo iz vaje 5 tako, da dodate gumb na pin PB2. Tudi ta gumb naj pro≈æi prekinitev. Obstojeci gumb povecuje ≈°tevilo, dodani pa naj v PSPju od≈°teva ≈°tevilo pritiskov
