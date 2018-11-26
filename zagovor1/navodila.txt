@@ -1,0 +1,1 @@
+Dopolnite nalogo iz vaje 5 tako, da dodate gumb na pin PB3. Tudi ta gumb naj proži prekinitev. Obstojeci gumb povecuje število, dodani pa naj v PSPju odšteva število pritiskov
